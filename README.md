@@ -1,10 +1,13 @@
-<div align="left">
+<div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lijinlawren.lijinlawren&left_color=cadetblue&right_color=chartreuse"  />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋, I'm LIJIN</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&duration=2000&pause=1500&color=16E3F7&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+There!;I'm+LIJIN" alt="Typing SVG" /></a>
+</h1>
 
 ###
 
