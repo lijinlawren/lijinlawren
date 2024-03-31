@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center">- 📚 I'm currently learning FLUTTER DART<br>- 💬 Ask me about App Development<br>- 📫 How to reach me <a href="lijinlawrence0703@gmail.com">lijinlawrence0703@gmail.com</a></p>
+<p align="center">- 📚 I'm currently learning FLUTTER DART<br>- 💬 Ask me about App Development<br>- 📫 How to reach me <a href="mailto:someone@example.com">lijinlawrence0703@gmail.com</a></p>
 
 ###
 
