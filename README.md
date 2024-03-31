@@ -98,6 +98,6 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=30&duration=2000&pause=1500&color=16E3F7&center=true&random=false&width=435&lines=Thanks+for+visiting!;I'm+always+down+to+collab" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=20&duration=2000&pause=1500&color=16E3F7&center=true&random=false&width=435&lines=Thanks+for+visiting!;I'm+always+down+to+collab" alt="Typing SVG" />
   </a>
 </h1>
