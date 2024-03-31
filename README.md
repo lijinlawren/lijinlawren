@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="left">"Crafting Seamless Experiences with Flutter & Dart: Your Go-To App Developer"</h3>
+<h3 align="center">"Crafting Seamless Experiences with Flutter & Dart: Your Go-To App Developer"</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -64,6 +64,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lijinlawren&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">Connect with me :</h3>
 
 ###
 
