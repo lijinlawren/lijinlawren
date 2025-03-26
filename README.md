@@ -54,33 +54,8 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lijinlawren&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=lijinlawren&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lijinlawren&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages"/>
-</div>
-
-###
-
-<h3 align="left">📫 Connect With Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lijinl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
-  </a>
-  <a href="mailto:lijinlawrence0703@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"/>
-  </a>
-  <a href="https://github.com/lijinlawren" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github"/>
-  </a>
 </div>
 
 ###
